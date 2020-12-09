@@ -10408,6 +10408,10 @@ h4.sub-title {
   z-index: 0;
   display: grid;
   align-items: center; }
+.w31-main-slider .banner-top0 {
+  background: url(../images/trademarks/BKINDLogo.png) no-repeat;
+  background-size: cover;
+  object-fit: cover; }
 
 .w3l-main-slider .banner-top1 {
   background: url(../images/soft_heart.jpg) no-repeat;
