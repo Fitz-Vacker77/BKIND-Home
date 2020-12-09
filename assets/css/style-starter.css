@@ -10400,7 +10400,7 @@ h4.sub-title {
   -moz-transition: 0.3s ease-in;
   -ms-transition: 0.3s ease-in; }
 
-.w3l-main-slider .banner-view {
+.w3l-main-slider .banner-top {
  background: url(../images/empathy_and_compassion.jpeg) no-repeat;
  background-size: cover;
  min-height: 700px;
@@ -10409,7 +10409,7 @@ h4.sub-title {
  display: grid;
  align-items: center; }
 
-.w31-main-slider .banner-top {
+.w31-main-slider .banner-top0 {
   background: url(../images/A_little_kindness.jpg) no-repeat;
   background-size: cover;
   object-fit: cover; }
@@ -10438,16 +10438,6 @@ h4.sub-title {
   left: 0;
   right: 0;
   z-index: -1; }
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: 0.6s ease;}
 
 .w3l-main-slider .csslider > input {
   display: none; }
@@ -10664,6 +10654,7 @@ h4.sub-title {
   transform: rotate(225deg); }
 
 .w3l-main-slider #slider1 > input:nth-of-type(1):checked ~ ul #bg,
+.w3l-main-slider #slider1 > input:nth-of-type(1):checked ~ ul #bg0,
 .w3l-main-slider #slider1 > input:nth-of-type(2):checked ~ ul #bg1,
 .w3l-main-slider #slider1 > input:nth-of-type(3):checked ~ ul #bg2,
 .w3l-main-slider #slider1 > input:nth-of-type(4):checked ~ ul #bg3 {
@@ -10674,6 +10665,7 @@ h4.sub-title {
   height: 100%; }
 
 .w3l-main-slider #slider1 > input:nth-of-type(1):checked ~ ul #bg div,
+.w3l-main-slider #slider1 > input:nth-of-type(1):checked ~ ul #bg0 div,
 .w3l-main-slider #slider1 > input:nth-of-type(2):checked ~ ul #bg1 div,
 .w3l-main-slider #slider1 > input:nth-of-type(3):checked ~ ul #bg2 div,
 .w3l-main-slider #slider1 > input:nth-of-type(4):checked ~ ul #bg3 div {
