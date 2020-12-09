@@ -10408,30 +10408,18 @@ h4.sub-title {
   z-index: 0;
   display: grid;
   align-items: center;
-  height: 100%; 
-  width: 100%; 
-  object-fit: contain;}
 
 .w3l-main-slider .banner-top1 {
   background: url(../images/soft_heart.jpg) no-repeat;
   background-size: cover;
-  height: 75%; 
-  width: 75%; 
-  object-fit: contain;}
 
 .w3l-main-slider .banner-top2 {
   background: url(../images/compassion.jpg) no-repeat;
   background-size: cover;
-  height: 75%; 
-  width: 75%; 
-  object-fit: contain;}
 
 .w3l-main-slider .banner-top3 {
   background: url(../images/simplicity.jpg) no-repeat;
   background-size: cover;
-  height: 75%; 
-  width: 75%; 
-  object-fit: contain; }
 
 .w3l-main-slider .banner-view:before {
   content: "";
