@@ -10412,15 +10412,24 @@ h4.sub-title {
 .w3l-main-slider .banner-top1 {
   background: url(../images/soft_heart.jpg) no-repeat;
   background-size: cover;
+  display: grid;
+  position: relative;
+  min-height: 700px;
 
 .w3l-main-slider .banner-top2 {
   background: url(../images/compassion.jpg) no-repeat;
   background-size: cover;
+  display: grid;
+  position: relative;
+  min-height: 700px;
 
 .w3l-main-slider .banner-top3 {
   background: url(../images/simplicity.jpg) no-repeat;
   background-size: cover;
-
+  display: grid;
+  position: relative;
+  min-height: 700px;
+  
 .w3l-main-slider .banner-view:before {
   content: "";
   background: rgba(7, 10, 12, 0.45);
