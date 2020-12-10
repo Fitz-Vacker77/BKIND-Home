@@ -4,16 +4,11 @@
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 ul{
-    position: absolute;
-    left:50px;
     list-style-type: disc;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    columns: 2;
-    list-style-position: inside; /*this is important addition*/
+    list-style-position: inside; 
 }
 .newspaper {
-  column-count: 3;
+  column-count: 5;
   column-gap: 30px;
 }
 hr.rounded {
