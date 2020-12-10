@@ -5,7 +5,6 @@
  */
 hr.rounded {
     width:80%;
-    text-align:left;
     margin:auto;
     height:11px;
     background-image: linear-gradient(to bottom left, #191970,#8b0000);
