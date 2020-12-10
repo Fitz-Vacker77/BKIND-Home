@@ -3,11 +3,12 @@
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-ul li{
-    display:inline-block;
-    width: 33.3%;} /*helps to determine number of columns, for instance 33.3% displays 3 columns*/
 ul{
     list-style-type: disc;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    list-style-position: inside; /*this is important addition*/
 }
 .newspaper {
   column-count: 3;
