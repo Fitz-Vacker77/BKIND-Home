@@ -4,8 +4,14 @@
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 hr.rounded {
-  border-top: 8px solid #000;
-  border-radius: 5px;}
+    width:80%;
+    text-align:left;
+    margin:auto;
+    height:11px;
+    background-image: linear-gradient(to bottom left, #191970,#8b0000);
+    border: 5px linear-gradient(to bottom left, #191970,#8b0000);
+    border-radius: 7px;
+}
 /* FONT PATH
  * -------------------------- */
 @font-face {
