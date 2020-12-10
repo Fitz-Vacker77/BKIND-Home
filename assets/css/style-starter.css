@@ -3,6 +3,10 @@
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
+.newspaper {
+  column-count: 3;
+  column-gap: 30px;
+}
 hr.rounded {
     width:95%;
     margin:auto;
