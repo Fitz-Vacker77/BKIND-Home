@@ -3,6 +3,10 @@
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
+body {
+  height: 75%;
+  margin:auto;
+}
 ul{
     list-style-type: disc;
     list-style-position: inside; 
