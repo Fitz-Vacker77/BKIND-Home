@@ -23,9 +23,11 @@ hr.rounded {
 /* FONT PATH
  * -------------------------- */
 @font-face {
-  font-family: DragonFire;
-  src: url('assets/fonts/DragonFire-K7VWA.ttf');
-  src: url('assets/fonts/DragonFire-K7VWA.ttf')  format('truetype');
+    font-family: 'dragon_fireregular';
+    src: url('dragonfire-k7vwa-webfont.woff2') format('woff2'),
+         url('dragonfire-k7vwa-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
   font-family: 'FontAwesome';
